@@ -10,7 +10,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 
 ### Included Projects
 1. **Obstacle Avoidance Robot**  
-   My first self-directed robotics project, designed to detect and avoid obstacles using an ultrasonic sensor. It taught me perseverance, wiring logic, and how hardware connects with software.
+   Building by following and adapting a YouTube tutorial, this robot detects and avoids obstacles using an ultrasonic sensor. Through experimenting with wiring corrections and motor adjustments, I gained hands-on experience with Arduino hardware and learned how hardware and software interact.
 
 2. **Sumo Robot**  
    A collaborative project focused on 3D design, calibration, and motor control. It strengthened my design foundation and sparked my interest in computer vision and robot perception.
@@ -37,7 +37,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 ---
 
 ## 💡 Reflection
-These early robotics creations represent more than technical learning. They reflect my belief that engineering should connect function with feeling and innovation with empathy. Each project has shaped how I approach robotics today—with curiosity, creativity, and purpose.
+These early robotics creations represent more than technical learning. They reflect my belief that engineering should connect function with feeling and innovation with empathy. Each project strengthened my understanding of how curiosity, creativity, and compassion can coexist in robotics and design.
 
 ---
 
