@@ -21,7 +21,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 ---
 
 ## 🧩 Features
-- Arduino code for most projects, covering both completed and partially developed versions.
+- Arduino code for all projects, covering both completed and partially developed versions.
 - 2025 updated version for clarification purpose of wiring diagrams for most projects, covering both completed and partially developed versions.
 - 3D design models and circuit simulations for some projects.
 - Step-by-step project documentation  
