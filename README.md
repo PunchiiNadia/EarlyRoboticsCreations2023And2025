@@ -22,7 +22,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 
 ## 🧩 Features
 - Arduino code and wiring diagrams for most projects, covering both completed and partially developed versions.
-- 3D design models and circuit simulations  
+- 3D design models and circuit simulationsfr some projects.
 - Step-by-step project documentation  
 - Reflection and lessons learned for each build  
 
