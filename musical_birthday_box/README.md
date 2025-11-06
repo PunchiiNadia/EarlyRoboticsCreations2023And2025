@@ -47,21 +47,21 @@ My teacher introduced me to Tinkercad and Arduino, guiding my early learning and
 
 ## 🔧 Development Process
 
-1. Planning: Researched piezo buzzer tone frequencies and LED control.  
-2. Simulation: Designed and tested the circuit in Tinkercad before real hardware assembly.  
-3. Assembly: Wired the buzzer and LEDs to the Arduino and breadboard.  
-4. Programming: Coded the Happy Birthday melody and synchronized LED flashes.  
-5. Testing: Adjusted tone frequencies and LED timing until the song played smoothly.  
-6. Fabrication and Presentation: Built a layered birthday box, decorated it, and prepared the surprise setting for my mother.
+1. **Planning:** Researched piezo buzzer tone frequencies and LED control.  
+2. **Simulation:** Designed and tested the circuit in Tinkercad before real hardware assembly.  
+3. **Assembly:** Wired the buzzer and LEDs to the Arduino and breadboard.  
+4. **Programming:** Coded the Happy Birthday melody and synchronized LED flashes.  
+5. **Testing:** Adjusted tone frequencies and LED timing until the song played smoothly.  
+6. **Fabrication and Presentation:** Built a layered birthday box, decorated it, and prepared the surprise setting for my mother.
 
 
 ## 🧠 Challenges and Solutions
 
 | Challenge | Solution |
 |----------|----------|
-| Tone accuracy | At first, all notes sounded similar. By researching buzzer tone frequency charts and testing values, I refined the melody until it sounded correct. |
-| Wiring confusion as a beginner | With patient guidance from my teacher and feedback from classmates, I corrected board wiring and gained clearer understanding of breadboard logic. |
-| Balancing time with schoolwork | I worked steadily in the evenings, focusing on small improvements each day. |
+| **Tone accuracy** | At first, all notes sounded similar. By researching buzzer tone frequency charts and testing values, I refined the melody until it sounded correct. |
+| **Wiring confusion as a beginner** | With patient guidance from my teacher and feedback from classmates, I corrected board wiring and gained clearer understanding of breadboard logic. |
+| **Balancing time with schoolwork** | I worked steadily in the evenings, focusing on small improvements each day. |
 
 
 ## ✅ Outcome
