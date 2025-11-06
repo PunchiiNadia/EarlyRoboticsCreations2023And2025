@@ -68,12 +68,14 @@ I am deeply grateful for the patience, guidance, and encouragement I received.
 
 ## 🧠 Challenges and Solutions
 
-| Challenge | Response |
-|----------|----------|
-| **Ensuring accurate electronic fit in 3D model** | Refining with teacher's guidance |
-| **Understanding wiring logic** | Learning through guided attempts and correction |
-| **Sensor threshold calibration** | Participating in adjusting values during testing |
-| **Emotional and time pressure before international departure** | Learning to ask for help and accepting steady progress |
+## 🧠 Challenges and Solutions
+
+| Challenge | Response / How It Was Addressed |
+|----------|--------------------------------|
+| **Ensuring accurate electronic fit in the 3D model** | The fitting adjustments were completed by my teacher. I observed how the design was refined to ensure proper spacing and secure component placement. |
+| **Understanding wiring logic** | The wiring was completed by my teacher due to the limited time before my departure. I learned by watching the process and asking questions. |
+| **Sensor threshold calibration** | The calibration was led and finalized by my teacher. I participated by observing how different values affected robot behavior during testing. |
+| **Emotional and time pressure before international departure** | I learned to acknowledge my limitations, communicate honestly, and accept support from others instead of forcing myself to do everything alone. |
 
 ---
 
