@@ -43,7 +43,7 @@ I am deeply grateful for the patience, guidance, and encouragement I received.
 
 | Component | Description |
 |----------|-------------|
-| **Pop-32 Microcontroller** | Main control board |
+| **Pop-32i Microcontroller** | Main control board |
 | **Smile Robotics PRIK-THAI Kit** | Motor driver and sensor integration |
 | **DC Motors (12V, 1000 RPM)** | Driving motors for pushing strength |
 | **GP2Y0A02YK0F IR Distance Sensors (x3)** | Forward object detection |
