@@ -16,7 +16,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
    A collaborative project focused on 3D modeling, calibration, and motor control. I co-designed and assembled the robot using Tinkercad and Arduino, refining design accuracy and wiring logic under teacher guidance. This project strengthened my technical foundation and emotional connection to robotics, sparking my passion for computer vision and the idea of creating technology that perceives and connects with the world.
 
 3. **Musical Birthday**
-   A heartfelt creation that combines Arduino programming with synchronized LED lights to play the *Happy Birthday* melody. I first simulated the circuit and code in Tinkercad before assembling the system as a gift for my mother. This project reminded me that engineering can carry emotion, turning circuits and lights into a reflection of care, memory, and human warmth.
+   A heartfelt creation that combines Arduino programming with synchronized LED lights to play the *Happy Birthday* melody. I first simulated the circuit and code in Tinkercad before assembling the system as a gift for my mother. This structured design process taught me how thoughtful planning can reduce troubleshooting and make a system easier to rebuild and share with others who are learning. Her joyful reaction reminded me that engineering can carry emotion, turning circuits and lights into a reflection of care, memory, and human warmth.
 
 ---
 
