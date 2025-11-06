@@ -10,7 +10,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 
 ### Included Projects
 1. **Obstacle Avoidance Robot**  
-   Building by following and adapting a YouTube tutorial, this robot detects and avoids obstacles using an ultrasonic sensor. It was my first project applying the Arduino fundamentals I had learned, helping me connect theory to practice. Through experimenting with wiring corrections, motor adjustments, and battery downgrades, I improved its performance, though it only achieved partial success in navigation. This hands-on process provided me valuable experience with Arduino hardware and programming, and taught me how iteration and collaboration are key to meaningful learning.
+   Building by following and adapting a YouTube tutorial, this robot detects and avoids obstacles using an ultrasonic sensor. It was my first project applying the Arduino fundamentals I had learned, helping me connect theory to practice. Through experimenting with wiring corrections, motor adjustments, and switching to a more suitable power source, I improved its performance, though it only achieved partial success in navigation. This hands-on process provided me valuable experience with Arduino hardware and programming, and taught me how iteration and collaboration are key to meaningful learning.
 
 2. **Sumo Robot**  
    A collaborative project focused on 3D modeling, calibration, and motor control. I co-designed and assembled the robot using Tinkercad and Arduino, refining design accuracy and wiring logic under teacher guidance. This project strengthened my technical foundation and emotional connection to robotics, sparking my passion for computer vision and the idea of creating technology that perceives and connects with the world.
