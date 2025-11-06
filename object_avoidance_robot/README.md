@@ -7,7 +7,7 @@ This project marks my first hands-on experience with Arduino, motors, and sensor
 ---
 
 ## 🎯 Objective
-Learning Arduino fundamentals and gaining practical experience in assembling circuits, programming motors and sensors, and troubleshooting physical robotic systems.
+To learn Arduino fundamentals and to gain practical experience in assembling circuits, programming motors and sensors, and troubleshooting physical robotic systems.
 
 ---
 
