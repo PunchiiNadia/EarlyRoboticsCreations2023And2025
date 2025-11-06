@@ -32,6 +32,8 @@ I assembled the robot independently while asking for guidance when needed. My co
 - **C++ / Arduino IDE** for programming
 - Basic wiring tools
 
+![circuit_diagram](circuit_diagram.jpg)
+
 ---
 
 ## 🔧 Development Process
