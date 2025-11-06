@@ -73,8 +73,7 @@ Her joy reminded me that technology can create connection and express care.
 
 ## 💡 Reflection
 **Technical:**  
-Strengthening skills in Arduino programming, buzzer tone control, LED timing, and circuit simulation.  
-This project also taught me the value of a well-planned process, as the structured simulation made the real build efficient, reduced troubleshooting time, and created a system that can be easily rebuilt or shared to support others in learning similar steps.
+Strengthening skills in Arduino programming, buzzer tone control, LED timing, and circuit simulation. This project also taught me the value of a well-planned process, as the structured simulation made the real build efficient, reduced troubleshooting time, and created a system that can be easily rebuilt or shared to support others in learning similar steps.
 
 **Personal:**  
 Learning perseverance, patience, and creative problem solving under time pressure.
@@ -83,8 +82,7 @@ Learning perseverance, patience, and creative problem solving under time pressur
 This project deepened my appreciation for guidance, kindness, and shared curiosity within my learning community.
 
 **Vision:**  
-This was the moment I realized that engineering can carry emotion.  
-It inspired me to continue pursuing robotics that combines empathy, memory, and human connection.
+This was the moment I realized that engineering can carry emotion. It inspired me to continue pursuing robotics that combines empathy, memory, and human connection.
 
 ## 📌 Acknowledgment
 
