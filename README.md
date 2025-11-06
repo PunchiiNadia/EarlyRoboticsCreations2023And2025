@@ -1,4 +1,4 @@
-# 🤖 Early Robotics Creations (2023 & 2025)
+# 🤖 Early Robotics Creations (2023)
 
 This repository showcases my early robotics creations that mark the beginning of my journey in engineering, design, and coding. Each project was built from curiosity and persistence, combining technical learning with creativity and emotion. These projects represent my early exploration in robotics. Many parts were guided, experimental, and iterative, and the value of these works lies in the process of learning rather than perfection.
 
