@@ -61,12 +61,16 @@ The robot was **partially successful**. It could detect and avoid close obstacle
 
 ## 💡 Reflection
 **Technical:** 
+
 Learning Arduino wiring, motor driver usage, sensor integration, and hands-on debugging in physical builds.  
 **Personal:** 
+
 Developing patience, persistence, and resilience through trial-and-error problem solving and repeated iteration.  
 **Relational:** 
+
 Learning to reach out and receive help, realizing that engineering progress is not a journey taken alone, and that guidance, encouragement, and shared problem-solving support deeper learning and long-term improvement.  
 **Vision:** 
+
 Realizing that even simple autonomous behaviors can be the foundation for creating future robots that interact, respond, and grow alongside people.
 
 ---
