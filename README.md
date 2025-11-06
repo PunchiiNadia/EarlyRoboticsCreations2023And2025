@@ -32,7 +32,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 ## 🛠️ Tools and Components
 - **Arduino Uno**, **Motor Driver Shield**, **Pop-32i Microcontroller**, **Smile Robotics PRIK-THAI kit**
 - **HC-SR04 Ultrasonic Sensor**, **GP2Y0A02YK0F IR Distance Sensor**, **ZX-03 IR Line / Edge Tracking Sensor**
-- **DC Motors**, **TT Gear Motors**, **Servo Motors**, **7.4V Li-Po Battery (550–900mAh)**, **DC Power Switch**, **DC Male Adapter Jack (5.5 × 2.5 mm)**
+- **DC Motors 12V 1000RPM**, **TT Gear Motors**, **Servo Motors**, **7.4V Li-Po Battery (550–900mAh)**, **DC Power Switch**, **DC Male Adapter Jack (5.5 × 2.5 mm)**
 - **Plastwood** structural chassis, **LEDs**, **Buzzer**, basic wiring tools
 - **Tinkercad** for 3D modeling and circuit simulation
 - **C++ / Arduino IDE** for programming
