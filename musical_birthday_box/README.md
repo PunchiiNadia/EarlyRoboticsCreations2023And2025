@@ -10,9 +10,9 @@ This project combines creativity, electronics, and personal meaning. I designed 
 To apply early electronics and Arduino programming skills to create a meaningful gift.  
 The goal was to design a box that:
 
-- Played the Happy Birthday tune  
-- Displayed synchronized LED lighting  
-- Created a warm and memorable moment  
+- Playing the Happy Birthday tune  
+- Displaying synchronized LED lighting  
+- Creating a warm and memorable moment  
 
 On a deeper level, this project helped me understand how technology can be used to express love and create emotional connection.
 
@@ -74,10 +74,10 @@ Her joy reminded me that technology can create connection and express care.
 ## 💡 Reflection
 
 **Technical:**  
-Strengthened skills in Arduino programming, buzzer tone control, LED timing, and circuit simulation.
+Strengthening skills in Arduino programming, buzzer tone control, LED timing, and circuit simulation.
 
 **Personal:**  
-Learned perseverance, patience, and creative problem solving under time pressure.
+Learning perseverance, patience, and creative problem solving under time pressure.
 
 **Relational:**  
 This project deepened my appreciation for guidance, kindness, and shared curiosity within my learning community.
