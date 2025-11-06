@@ -1,20 +1,21 @@
 # 🤖 Arduino-Based Obstacle Avoidance Robot (2023)
 
-This project marks my first hands-on experience with Arduino, motors, and sensors. I followed and adapted an online tutorial to build a robot that detects and avoids obstacles using an ultrasonic sensor. Through iteration, wiring corrections, and component adjustments, I gained my first real understanding of how hardware and software interact in real-world conditions.
+This project marks my first hands-on experience with Arduino, motors, and sensors. I followed and adapted an online tutorial to build a robot that detects and avoids obstacles using an ultrasonic sensor. Through iteration, wiring corrections, and material substitutions, I gained foundational experience in how hardware and software interact in real-world conditions.
 
 ---
 
 ## 🎯 Objective
-To learn Arduino fundamentals and gain practical experience in assembling circuits, programming motors and sensors, and troubleshooting physical robotic systems.
+Learning Arduino fundamentals and gain practical experience in assembling circuits, programming motors and sensors, and troubleshooting physical robotic systems.
 
 ---
 
 ## 🧩 Role and Contribution
-I built and assembled the robot myself while asking for guidance when needed. My key contributions included:
+I assembled the robot independently while asking for guidance when needed. My contributions included:
 - Adjusting Arduino code (motor speed, timing, and sensor distance values).
-- Replacing the low-voltage battery with a **7.4V Li-Po battery** after diagnosing power issues.
-- Improving stability by adding **Plastwood** as a structural support base.
-- Correcting wiring errors with help from my teacher and father, strengthening both understanding and collaboration.
+- Replacing the 9V battery with a **7.4V Li-Po** to provide stable power for motors and sensors.
+- Improving chassis stability by **using Plastwood as the base**, substituting for the acrylic material shown in the tutorial due to availability.
+- Correcting wiring errors with help from my teacher and father, strengthening clarity in circuit logic and collaborative problem-solving.
+- **Updating the circuit diagram** to fix the spinning issue and to support future rebuilds.
 
 ---
 
@@ -31,34 +32,38 @@ I built and assembled the robot myself while asking for guidance when needed. My
 
 ---
 
+⭐
 ## 🔧 Development Process
-1. Followed the tutorial to assemble the core structure and code.
-2. Experimented with motor speeds and delay values to refine movement.
-3. Identified power limitations and replaced the battery with a Li-Po.
-4. Performed trial runs and adjusted chassis stability using Plastwood.
+1. Following the tutorial to assemble the core structure and code.
+2. Experimenting with motor speeds and delay values to refine responsiveness.
+3. Identifying power limitations and replacing the battery with a Li-Po.
+4. Performing trial runs and improving stability by adding Plastwood structural support at the base.
 5. Final result: The robot successfully detected and avoided objects but sometimes spun in circles due to directional imbalance.
+6. Updating the wiring layout and circuit diagram *to prevent circular spinning behavior.*
+⭐
 
 ---
 
 ## 🧠 Challenges and Solutions
 | Challenge | Solution |
 |----------|----------|
-| Wiring confusion as a beginner | Learned correct wiring logic with guidance from teacher and father |
-| Robot not moving even with correct code | Diagnosed low voltage issue and replaced battery with Li-Po |
-| Robot instability | Added Plastwood structural support to balance chassis |
+| **Wiring confusion as a beginner** | Learning correct wiring logic with guidance from teacher and father. |
+| **Robot not moving even with correct code** | ⭐Diagnosing low voltage issue and replaced battery with Li-Po.⭐ |
+| **Robot spinning in circles** | Not resolving during the build. Later realizing the cause was incorrect motor polarity when reviewing the project. Updating the circuit diagram to support future rebuild and learning. |
+| **Chassis instability** | Adding Plastwood base to improve balance and support. |
 
 ---
 
 ## ✅ Outcome
-The robot was **partially successful**. It could detect and avoid close obstacles, but movement stability was not yet consistent. Even so, it served as an important milestone—my first working robot and a meaningful step into robotics.
+The robot was **partially successful**. It could detect and avoid close obstacles, but movement stability was not yet consistent and still required improvement. Despite this, it served as a meaningful introduction to robotic systems and iterative engineering.
 
 ---
 
 ## 💡 Reflection
-**Technical:** Learned Arduino wiring, motor driver usage, sensor integration, and practical debugging.  
-**Personal:** Built patience, persistence, and resilience through trial-and-error problem solving.  
-**Relational:** Learned the value of seeking guidance and support from others—progress in engineering is rarely done alone.  
-**Vision:** Realized that even simple robot behaviors can be the foundation for creating future robots that interact, respond, and grow alongside people.
+**Technical:** Learning Arduino wiring, motor driver usage, sensor integration, and hands-on debugging in physical builds.  
+**Personal:** Developing patience, persistence, and resilience through trial-and-error problem solving and repeated iteration.  
+**Relational:** Learning to reach out and receive help, realizing that engineering progress is not a journey taken alone, and that guidance, encouragement, and shared problem-solving support deeper learning and long-term improvement.
+**Vision:** Realizing that even simple autonomous behaviors can be the foundation for creating future robots that interact, respond, and grow alongside people.
 
 ---
 
