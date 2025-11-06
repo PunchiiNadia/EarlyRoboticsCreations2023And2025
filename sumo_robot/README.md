@@ -74,6 +74,7 @@ I am deeply grateful for the patience, guidance, and encouragement I received.
 | **Understanding wiring logic** | The wiring was completed by my teacher due to the limited time before my departure. I learned by watching the process, asking questions, and observing how clear wiring logic prevents troubleshooting issues later. |
 | **Sensor threshold calibration** | The calibration was led and finalized by my teacher. I participated by observing how different values affected detection stability and motion control during testing. |
 | **Emotional and time pressure before international departure** | I learned to acknowledge my limits, ask for help sincerely, and accept steady progress instead of pushing myself alone during overwhelming circumstances. |
+As the final wiring and functional code were completed by my teacher during the last stage of the project, I did not retain the full circuit diagram or code files. The working code remains with my teacher, and I sincerely respect and honor his authorship.
 
 ---
 
