@@ -1,4 +1,4 @@
-![robot_picture](https://github.com/user-attachments/assets/49c20276-6e2d-471f-a3a6-b845f6c34ebc)# 🤖 Arduino-Based Obstacle Avoidance Robot (2023)
+# 🤖 Arduino-Based Obstacle Avoidance Robot (2023)
 
 This project marks my first hands-on experience with Arduino, motors, and sensors. I followed and adapted an online tutorial to build a robot that detects and avoids obstacles using an ultrasonic sensor. Through iteration, wiring corrections, and material substitutions, I gained foundational experience in how hardware and software interact in real-world conditions.
 
