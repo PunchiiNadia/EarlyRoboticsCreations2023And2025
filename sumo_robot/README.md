@@ -17,9 +17,9 @@ To apply foundational robotics knowledge by designing and assembling a competiti
 
 On a deeper level, this project helped me:
 
-- Gain confidence working with real hardware  
-- Strengthen problem-solving skills during emotional and time pressure  
-- Discover the early beginning of my passion for **computer vision**, sparked by seeing sensors act like “eyes”  
+- Gaining confidence working with real hardware  
+- Strengthening problem-solving skills during emotional and time pressure  
+- Discovering the early beginning of my passion for **computer vision**, sparkling by seeing sensors act like “eyes”  
 
 ---
 
