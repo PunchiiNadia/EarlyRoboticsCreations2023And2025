@@ -82,7 +82,7 @@ As the final wiring and functional code were completed by my teacher during the 
 ## ✅ Outcome
 
 The robot successfully detected ring edges and pushed its opponent during operation.  
-Although I was not able to complete all steps independently, this project became a meaningful foundation in developing confidence, understanding robotics structure, and learning how sensors interact with the real world.
+Although I was not able to complete all steps independently, this project became a meaningful foundation in developing a sense of inner strength, understanding robotics structure, and learning how sensors interact with the real world.
 
 ---
 
