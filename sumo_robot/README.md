@@ -51,6 +51,8 @@ I am deeply grateful for the patience, guidance, and encouragement I received.
 | **7.4V Li-Po Battery (550–900mAh)** | Power supply |
 | **Tinkercad** | 3D chassis modeling |
 | **Arduino IDE / C++** | Code execution and parameter tuning |
+|**Custom Cast Wheels**|Handmade wheels created using a small mold, providing strong traction, durability, and stability essential for sumo style pushing movements|
+|**Basic Wiring Tools**|Jumper wires, wire strippers, small screwdrivers, and electrical tape for organizing, securing, and assembling the electrical system|
 
 ![components](electronics_components.jpg)
 
