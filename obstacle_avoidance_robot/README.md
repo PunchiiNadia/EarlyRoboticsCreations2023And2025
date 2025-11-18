@@ -16,6 +16,8 @@ I assembled the robot independently while asking for guidance when needed. My co
 - Adjusting Arduino code (motor speed, timing, and sensor distance values).
 - Replacing the 9V battery with a 7.4V Li-Po to provide stable power for motors and sensors.
 - Improving chassis stability by using Plastwood as the base, substituting for the acrylic material shown in the tutorial due to availability.
+- Soldering the ultrasonic sensor wires to the motor driver shield and reinforcing the joint with tape to prevent disconnection during movement.
+- Soldering the TT motor wires to improve connection stability and reduce power loss to the motors.
 - Correcting wiring errors with help from my teacher and father, strengthening clarity in circuit logic and collaborative problem-solving.
 - Updating the circuit diagram to fix the spinning issue and to support future rebuilds.
 
